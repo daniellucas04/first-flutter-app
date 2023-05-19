@@ -2,7 +2,7 @@
 
 ### This app has been made with Flutter (Dart) with support of: Google Codelabs.
 
-Follow the link to the project: <a href="https://docs.flutter.dev/get-started/codelab" target="_blank">Write your first Flutter App</a>()
+Follow the link to the project: <a href="https://docs.flutter.dev/get-started/codelab" target="_blank">Write your first Flutter App</a>
 
 ### My ideas
 
